@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to My Homepage! 
 
-You can use the [editor on GitHub](https://github.com/RocktheVegetableMechanics/RVMechanics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Basic Info
+<br>
+**Name**: Yuke
+**Occupation**: University Student, currently majoring in mechanic engineering
+**Date of Birth**: March 6th
+**Personal Interest**: Reading, **Table Tennis**
+<br>
+~~Because of a lack of content~~ I may temporily focus on stuff about life, especially T.T.  
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pursuit
+<br>
+Acquiring basic skills like *Markdown*, *LaTex*, maybe some programming stuff, to help my academic development.  
+~~That's why I'm here.~~  
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RocktheVegetableMechanics/RVMechanics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+<br>
+~~Maybe after I've already done something satisfactory.~~
